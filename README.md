@@ -1,2 +1,0 @@
-# SpeedRClock
-the speedrun clock!
