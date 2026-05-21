@@ -9,7 +9,7 @@ using System.Windows;
 [assembly: AssemblyConfiguration(".NET Framework 4.8")]
 [assembly: AssemblyCompany("Minhbao Studio Inc.")]
 [assembly: AssemblyProduct("SpeedRClock")]
-[assembly: AssemblyCopyright("Copyright © Minhbao Studio Inc. All rights reserved.")]
+[assembly: AssemblyCopyright("Copyright © Minhbao Studio Inc. MIT License.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
